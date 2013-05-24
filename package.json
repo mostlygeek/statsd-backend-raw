@@ -1,7 +1,7 @@
 {
   "author": "Benson Wong <mostlygeek@gmail.com>",
   "description": "A backend for StatsD that dumps out what StatsD sends to console w/out munging",
-  "name": "statsd-backend-console",
+  "name": "statsd-backend-raw",
   "version": "0.0.1",
   "main": "lib/statsd-backend-raw.js",
   "dependencies": {},
