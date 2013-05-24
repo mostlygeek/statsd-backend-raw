@@ -1,0 +1,21 @@
+{
+  "author": "Benson Wong <mostlygeek@gmail.com>",
+  "description": "A backend for StatsD that dumps out what StatsD sends to console w/out munging",
+  "name": "statsd-backend-console",
+  "version": "0.0.1",
+  "main": "lib/statsd-backend-raw.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mostlygeek/statsd-backend-raw"
+  },
+  "keywords": [
+    "statsd", "backend"
+  ], 
+  "license": {"type": "MIT", "url": "https://github.com/mostlygeek/statsd-backend-raw/LICENSE.md"}
+}
