@@ -10,7 +10,9 @@ Add this to your `package.json` in dependencies
         "statsd-backend-raw": "git://github.com/mostlygeek/statsd-backend-raw.git"
     }
 
-Then in your StatsD configuration add `statsd-backend-raw` to the `backends` key:
+Then in your StatsD configuration add `statsd-backend-raw` to the `backends` key.
+
+Example config for statsd:
 
     {
       port: 8125
