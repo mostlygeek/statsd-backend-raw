@@ -17,5 +17,5 @@
   "keywords": [
     "statsd", "backend"
   ], 
-  "license": {"type": "MIT", "url": "https://github.com/mostlygeek/statsd-backend-raw/LICENSE.md"}
+  "license": {"type": "MIT", "url": "https://github.com/mostlygeek/statsd-backend-raw/LICENSE"}
 }
